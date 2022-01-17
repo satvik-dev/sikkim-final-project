@@ -129,7 +129,7 @@ left: 0;
 }
 #preloader{
 background:000; url(preloader.gif) no-repeat center center ; 
-backgroundsize:30%;
+background-size:30%;
   height:100vh;
 width:100%;
 position:fixed;
